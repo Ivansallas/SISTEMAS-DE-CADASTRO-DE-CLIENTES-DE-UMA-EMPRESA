@@ -5,7 +5,7 @@ linguagem C que permite cadastrar, listar, buscar, editar e remover clientes de 
 
 ## 🛠 Linguagem utilizada
 
-- C (Linguagem de programação estruturada)
+- Linguagem C (Linguagem de programação estruturada)
 
 ## 🎯 Funcionalidades
 
