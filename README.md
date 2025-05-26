@@ -55,7 +55,7 @@ Nome do Heitor
 
 Nome do Julia Alves
 
-Nome do Ivan
+Nome do Professor colaborador Ivan
 
 📌 Observações
 O sistema será expandido conforme o andamento do trabalho;
