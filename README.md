@@ -45,7 +45,7 @@ Os dados serão salvos em um arquivo clientes.txt, com leitura
 e escrita feitas por meio de funções da biblioteca <stdio.h>.
 
 👨‍👩‍👧‍👦 Equipe
-Nome do Aluno 1
+Nome Júlia Argueles
 
 Nome do Aluno 2
 
