@@ -47,7 +47,7 @@ e escrita feitas por meio de funções da biblioteca <stdio.h>.
 👨‍👩‍👧‍👦 Equipe
 Nome Júlia Argueles
 
-Nome do Aluno 2
+Nome do Julia Alves
 
 Nome do Professor Orientador
 
