@@ -45,11 +45,17 @@ Os dados serão salvos em um arquivo clientes.txt, com leitura
 e escrita feitas por meio de funções da biblioteca <stdio.h>.
 
 👨‍👩‍👧‍👦 Equipe
-Nome Júlia Argueles
+Nome do Júlia Argueles
+
+Nome do Lorena
+
+Nome do Maria F.
+
+Nome do Heitor
 
 Nome do Julia Alves
 
-Nome do Professor Orientador
+Nome do Ivan
 
 📌 Observações
 O sistema será expandido conforme o andamento do trabalho;
