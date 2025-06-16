@@ -7,7 +7,7 @@ int main(){
     printf("|----------------------------------------------|\n");
     printf("|__________________MENU________________________|\n");
     printf("| Bem-vindo ao sistema de Cadastro de clientes |\n");
-    printf("| seleciona uma opção:                         |\n");
+    printf("| selecione uma opção:                         |\n");
     printf("| [1] Cadastro de novos clientes               |\n");
     printf("| [2] Listagem de clientes cadastrados         |\n");
     printf("| [3] Busca de cliente por nome ou CPF         |\n");
